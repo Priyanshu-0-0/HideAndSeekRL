@@ -1,0 +1,22 @@
+# Ignore Unity-specific folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+Packages/
+# Ignore auto-generated Visual Studio/JetBrains Rider files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+# Ignore ML-Agents training results
+results/
